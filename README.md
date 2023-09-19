@@ -1,2 +1,2 @@
 # SIT764_Project
-Personal Contributions to AppAttack_WD
+Notes of upskilling and technical collaboration
